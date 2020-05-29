@@ -4,3 +4,5 @@ Update1
 
 Update from GitX @ 9:50
 Update from GitX @ 9:56 AM
+
+Chnages by architecture at 10:10 AM
